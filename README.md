@@ -1,4 +1,4 @@
-# Text-r-Recognization
+# Text-Recognization
 
 This is an Machine Learning Project that uses Natural Language Processing to Recognize the text.
 
